@@ -1,1 +1,1 @@
-# paines_bi
+Painéis de BI (Business Intelligence)
